@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="wenda@localhost">
+  <database-model serializer="dbm" rdbms="MYSQL" format-version="4.4">
+    <root id="1"/>
+    <schema id="2" parent="1" name="wenda">
+      <Current>1</Current>
+      <Visible>1</Visible>
+    </schema>
+    <schema id="3" parent="1" name="bookstore"/>
+    <schema id="4" parent="1" name="db_forum"/>
+    <schema id="5" parent="1" name="fhadmin"/>
+    <schema id="6" parent="1" name="giit"/>
+    <schema id="7" parent="1" name="guanwan"/>
+    <schema id="8" parent="1" name="hibernate5"/>
+    <schema id="9" parent="1" name="hrm_db"/>
+    <schema id="10" parent="1" name="hrm_db3"/>
+    <schema id="11" parent="1" name="information_schema"/>
+    <schema id="12" parent="1" name="master"/>
+    <schema id="13" parent="1" name="mybatis"/>
+    <schema id="14" parent="1" name="mysql"/>
+    <schema id="15" parent="1" name="seckill"/>
+    <schema id="16" parent="1" name="shiro"/>
+    <schema id="17" parent="1" name="shop"/>
+    <schema id="18" parent="1" name="ssm_crud"/>
+    <table id="19" parent="2" name="comment"/>
+    <table id="20" parent="2" name="message"/>
+    <table id="21" parent="2" name="question"/>
+    <table id="22" parent="2" name="user"/>
+    <column id="23" parent="19" name="id">
+      <Position>1</Position>
+      <DataType>int(11)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="24" parent="19" name="content">
+      <Position>2</Position>
+      <DataType>text|0</DataType>
+    </column>
+    <column id="25" parent="19" name="user_id">
+      <Position>3</Position>
+      <DataType>int(11)|0</DataType>
+    </column>
+    <column id="26" parent="19" name="created_date">
+      <Position>4</Position>
+      <DataType>datetime|0</DataType>
+    </column>
+    <column id="27" parent="19" name="entity_id">
+      <Position>5</Position>
+      <DataType>int(255)|0</DataType>
+    </column>
+    <column id="28" parent="19" name="entity_type">
+      <Position>6</Position>
+      <DataType>varchar(255)|0</DataType>
+    </column>
+    <key id="29" parent="19" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <ColNames>id</ColNames>
+      <Primary>1</Primary>
+    </key>
+    <column id="30" parent="20" name="id">
+      <Position>1</Position>
+      <DataType>int(11)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="31" parent="20" name="fromid">
+      <Position>2</Position>
+      <DataType>int(11)|0</DataType>
+    </column>
+    <column id="32" parent="20" name="toid">
+      <Position>3</Position>
+      <DataType>int(11)|0</DataType>
+    </column>
+    <column id="33" parent="20" name="content">
+      <Position>4</Position>
+      <DataType>text|0</DataType>
+    </column>
+    <column id="34" parent="20" name="conversation_id">
+      <Position>5</Position>
+      <DataType>int(11)|0</DataType>
+    </column>
+    <column id="35" parent="20" name="created_date">
+      <Position>6</Position>
+      <DataType>datetime|0</DataType>
+    </column>
+    <key id="36" parent="20" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <ColNames>id</ColNames>
+      <Primary>1</Primary>
+    </key>
+    <column id="37" parent="21" name="id">
+      <Position>1</Position>
+      <DataType>int(11)|0</DataType>
+      <NotNull>1</NotNull>
+      <SequenceIdentity>1</SequenceIdentity>
+    </column>
+    <column id="38" parent="21" name="title">
+      <Position>2</Position>
+      <DataType>varchar(255)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="39" parent="21" name="content">
+      <Position>3</Position>
+      <DataType>text|0</DataType>
+    </column>
+    <column id="40" parent="21" name="user_id">
+      <Position>4</Position>
+      <DataType>int(11)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="41" parent="21" name="created_date">
+      <Position>5</Position>
+      <DataType>datetime|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="42" parent="21" name="comment_count">
+      <Position>6</Position>
+      <DataType>int(11)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <index id="43" parent="21" name="date_index">
+      <ColNames>created_date</ColNames>
+    </index>
+    <key id="44" parent="21" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <ColNames>id</ColNames>
+      <Primary>1</Primary>
+    </key>
+    <column id="45" parent="22" name="id">
+      <Position>1</Position>
+      <DataType>int(11)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="46" parent="22" name="name">
+      <Position>2</Position>
+      <DataType>varchar(255)|0</DataType>
+    </column>
+    <column id="47" parent="22" name="password">
+      <Position>3</Position>
+      <DataType>varchar(255)|0</DataType>
+    </column>
+    <column id="48" parent="22" name="salt">
+      <Position>4</Position>
+      <DataType>varchar(255)|0</DataType>
+    </column>
+    <column id="49" parent="22" name="head_url">
+      <Position>5</Position>
+      <DataType>varchar(255)|0</DataType>
+    </column>
+    <key id="50" parent="22" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <ColNames>id</ColNames>
+      <Primary>1</Primary>
+    </key>
+  </database-model>
+</dataSource>

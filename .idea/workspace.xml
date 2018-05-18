@@ -1,0 +1,1540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/test/java/com/cc/wenda/InitDatabaseTests.java" line="35" mnemonic="2" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="581085f5-6a76-420a-864b-3645748867d5" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/.idea/ssm-master.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/.idea/.name" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/.idea/artifacts/excited_war.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/.idea/artifacts/excited_war_exploded.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/.idea/compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/.idea/libraries/Maven__commons_pool_commons_pool_1_5_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/.idea/libraries/Maven__junit_junit_4_12.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/.idea/libraries/Maven__mysql_mysql_connector_java_6_0_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/.idea/libraries/Maven__org_aspectj_aspectjrt_1_8_9.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_8.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/.idea/libraries/Maven__org_mybatis_mybatis_3_4_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_21.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_21.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/.idea/libraries/Maven__org_slf4j_slf4j_simple_1_7_21.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_12_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_1_10_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/.idea/libraries/Maven__org_springframework_spring_aop_4_2_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/.idea/libraries/Maven__org_springframework_spring_aspects_4_2_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/.idea/libraries/Maven__org_springframework_spring_beans_4_2_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/.idea/libraries/Maven__org_springframework_spring_context_4_2_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/.idea/libraries/Maven__org_springframework_spring_context_support_4_2_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/.idea/libraries/Maven__org_springframework_spring_core_4_2_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/.idea/libraries/Maven__org_springframework_spring_expression_4_2_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/.idea/libraries/Maven__org_springframework_spring_instrument_4_2_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/.idea/libraries/Maven__org_springframework_spring_instrument_tomcat_4_2_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/.idea/libraries/Maven__org_springframework_spring_jdbc_4_2_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/.idea/libraries/Maven__org_springframework_spring_jms_4_2_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/.idea/libraries/Maven__org_springframework_spring_messaging_4_2_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/.idea/libraries/Maven__org_springframework_spring_orm_4_2_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/.idea/libraries/Maven__org_springframework_spring_oxm_4_2_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/.idea/libraries/Maven__org_springframework_spring_test_4_2_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/.idea/libraries/Maven__org_springframework_spring_tx_4_2_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/.idea/libraries/Maven__org_springframework_spring_web_4_2_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/.idea/libraries/Maven__org_springframework_spring_webmvc_4_2_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/.idea/libraries/Maven__org_springframework_spring_webmvc_portlet_4_2_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/.idea/libraries/Maven__org_springframework_spring_websocket_4_2_5_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/.idea/libraries/Maven__taglibs_standard_1_1_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/src/main/java/com/excited/controller/AdminController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/src/main/java/com/excited/controller/BoardController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/src/main/java/com/excited/controller/MainController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/src/main/java/com/excited/controller/PostController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/src/main/java/com/excited/controller/ReplyController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/src/main/java/com/excited/controller/UserController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/src/main/java/com/excited/dao/BoardDao.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/src/main/java/com/excited/dao/PostDao.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/src/main/java/com/excited/dao/ReplyDao.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/src/main/java/com/excited/dao/UserDao.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/src/main/java/com/excited/dao/UserLoginLogDao.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/src/main/java/com/excited/domain/Board.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/src/main/java/com/excited/domain/Post.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/src/main/java/com/excited/domain/Reply.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/src/main/java/com/excited/domain/User.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/src/main/java/com/excited/domain/UserLoginLog.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/src/main/java/com/excited/mapper/BoardDao.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/src/main/java/com/excited/mapper/PostDao.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/src/main/java/com/excited/mapper/ReplyDao.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/src/main/java/com/excited/mapper/UserDao.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/src/main/java/com/excited/mapper/UserLoginLog.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/src/main/java/com/excited/service/BoardService.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/src/main/java/com/excited/service/Impl/BoardServiceImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/src/main/java/com/excited/service/Impl/LoginLogServiceImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/src/main/java/com/excited/service/Impl/PostServiceImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/src/main/java/com/excited/service/Impl/ReplyServiceImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/src/main/java/com/excited/service/Impl/UserServiceImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/src/main/java/com/excited/service/LoginLogService.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/src/main/java/com/excited/service/PostService.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/src/main/java/com/excited/service/ReplyService.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/src/main/java/com/excited/service/UserService.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/src/main/java/excited.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/src/main/resources/applicationContext.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/src/main/resources/dispatcher-servlet.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/src/main/resources/jdbc.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/src/main/resources/mybatis-config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/META-INF/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/classes/applicationContext.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/classes/com/excited/controller/AdminController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/classes/com/excited/controller/BoardController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/classes/com/excited/controller/MainController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/classes/com/excited/controller/PostController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/classes/com/excited/controller/ReplyController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/classes/com/excited/controller/UserController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/classes/com/excited/dao/BoardDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/classes/com/excited/dao/PostDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/classes/com/excited/dao/ReplyDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/classes/com/excited/dao/UserDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/classes/com/excited/dao/UserLoginLogDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/classes/com/excited/domain/Board.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/classes/com/excited/domain/Post.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/classes/com/excited/domain/Reply.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/classes/com/excited/domain/User.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/classes/com/excited/domain/UserLoginLog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/classes/com/excited/mapper/BoardDao.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/classes/com/excited/mapper/PostDao.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/classes/com/excited/mapper/ReplyDao.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/classes/com/excited/mapper/UserDao.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/classes/com/excited/mapper/UserLoginLog.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/classes/com/excited/service/BoardService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/classes/com/excited/service/Impl/BoardServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/classes/com/excited/service/Impl/LoginLogServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/classes/com/excited/service/Impl/PostServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/classes/com/excited/service/Impl/ReplyServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/classes/com/excited/service/Impl/UserServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/classes/com/excited/service/LoginLogService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/classes/com/excited/service/PostService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/classes/com/excited/service/ReplyService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/classes/com/excited/service/UserService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/classes/dispatcher-servlet.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/classes/jdbc.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/classes/mybatis-config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/lib/aopalliance-1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/lib/aspectjrt-1.8.9.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/lib/aspectjweaver-1.8.8.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/lib/commons-dbcp-1.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/lib/commons-logging-1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/lib/commons-pool-1.5.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/lib/javax.servlet-api-3.0.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/lib/jcl-over-slf4j-1.7.21.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/lib/jstl-1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/lib/log4j-1.2.17.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/lib/mybatis-3.4.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/lib/mybatis-spring-1.3.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/lib/mysql-connector-java-6.0.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/lib/slf4j-api-1.7.21.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/lib/slf4j-simple-1.7.21.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/lib/spring-aop-4.2.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/lib/spring-aspects-4.2.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/lib/spring-beans-4.2.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/lib/spring-context-4.2.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/lib/spring-context-support-4.2.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/lib/spring-core-4.2.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/lib/spring-data-commons-1.12.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/lib/spring-data-jpa-1.10.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/lib/spring-expression-4.2.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/lib/spring-instrument-4.2.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/lib/spring-instrument-tomcat-4.2.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/lib/spring-jdbc-4.2.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/lib/spring-jms-4.2.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/lib/spring-messaging-4.2.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/lib/spring-orm-4.2.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/lib/spring-oxm-4.2.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/lib/spring-test-4.2.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/lib/spring-tx-4.2.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/lib/spring-web-4.2.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/lib/spring-webmvc-4.2.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/lib/spring-webmvc-portlet-4.2.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/lib/spring-websocket-4.2.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/Excited/WEB-INF/lib/standard-1.1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/classes/applicationContext.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/classes/com/excited/controller/AdminController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/classes/com/excited/controller/BoardController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/classes/com/excited/controller/MainController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/classes/com/excited/controller/PostController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/classes/com/excited/controller/ReplyController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/classes/com/excited/controller/UserController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/classes/com/excited/dao/BoardDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/classes/com/excited/dao/PostDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/classes/com/excited/dao/ReplyDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/classes/com/excited/dao/UserDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/classes/com/excited/dao/UserLoginLogDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/classes/com/excited/domain/Board.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/classes/com/excited/domain/Post.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/classes/com/excited/domain/Reply.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/classes/com/excited/domain/User.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/classes/com/excited/domain/UserLoginLog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/classes/com/excited/mapper/BoardDao.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/classes/com/excited/mapper/PostDao.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/classes/com/excited/mapper/ReplyDao.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/classes/com/excited/mapper/UserDao.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/classes/com/excited/mapper/UserLoginLog.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/classes/com/excited/service/BoardService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/classes/com/excited/service/Impl/BoardServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/classes/com/excited/service/Impl/LoginLogServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/classes/com/excited/service/Impl/PostServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/classes/com/excited/service/Impl/ReplyServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/classes/com/excited/service/Impl/UserServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/classes/com/excited/service/LoginLogService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/classes/com/excited/service/PostService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/classes/com/excited/service/ReplyService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/classes/com/excited/service/UserService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/classes/dispatcher-servlet.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/classes/jdbc.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/target/classes/mybatis-config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/web/WEB-INF/pages/admin/addBoard.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/web/WEB-INF/pages/admin/allPostInfo.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/web/WEB-INF/pages/admin/allUserInfo.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/web/WEB-INF/pages/admin/error.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/web/WEB-INF/pages/admin/manageBoard.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/web/WEB-INF/pages/admin/manageCenter.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/web/WEB-INF/pages/admin/updateBoard.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/web/WEB-INF/pages/error.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/web/WEB-INF/pages/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/web/WEB-INF/pages/mainPage.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/web/WEB-INF/pages/post/addPost.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/web/WEB-INF/pages/post/postContent.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/web/WEB-INF/pages/post/postMain.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/web/WEB-INF/pages/reply/reply.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/web/WEB-INF/pages/user/loginStatus.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/web/WEB-INF/pages/user/userInfo.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/web/WEB-INF/pages/user/userLogin.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/web/WEB-INF/pages/user/userRegister.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/web/WEB-INF/pages/user/userUpdateInfo.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/web/WEB-INF/resources/assets/hello-kugou.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/web/WEB-INF/resources/assets/kumamon-runner.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/web/WEB-INF/resources/assets/novas-coisas.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/web/WEB-INF/resources/assets/offline-sprite-1x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/web/WEB-INF/resources/assets/offline-sprite-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/web/WEB-INF/resources/assets/screenshot.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/web/WEB-INF/resources/assets/t-rex-runner-bot.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/web/WEB-INF/resources/css/game.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/web/WEB-INF/resources/css/material-icons.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/web/WEB-INF/resources/css/material.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/web/WEB-INF/resources/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/web/WEB-INF/resources/font/MaterialIcons-Regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/web/WEB-INF/resources/font/MaterialIcons-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/web/WEB-INF/resources/font/MaterialIcons-Regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/web/WEB-INF/resources/font/MaterialIcons-Regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/web/WEB-INF/resources/img/home-first.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/web/WEB-INF/resources/img/home-ill-build.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/web/WEB-INF/resources/img/home-ill-platform.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/web/WEB-INF/resources/img/home-ill-projects.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/web/WEB-INF/resources/img/home-ill-work.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/web/WEB-INF/resources/js/game.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/web/WEB-INF/resources/js/jquery-3.1.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/web/WEB-INF/resources/js/material.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ssm-master/SSM-master/web/WEB-INF/web.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Javaee-tutorial-master/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Javaee-tutorial-master/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../first/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../first/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../myhrm/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../myhrm/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seckill-master/.idea/artifacts/seckill_war_exploded.xml" afterPath="$PROJECT_DIR$/../seckill-master/.idea/artifacts/seckill_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterPath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__c3p0_c3p0_0_9_1_1.xml" afterPath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__c3p0_c3p0_0_9_1_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_1.xml" afterPath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_1.xml" afterPath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__com_dyuproject_protostuff_protostuff_api_1_0_8.xml" afterPath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__com_dyuproject_protostuff_protostuff_api_1_0_8.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__com_dyuproject_protostuff_protostuff_collectionschema_1_0_8.xml" afterPath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__com_dyuproject_protostuff_protostuff_collectionschema_1_0_8.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__com_dyuproject_protostuff_protostuff_core_1_0_8.xml" afterPath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__com_dyuproject_protostuff_protostuff_core_1_0_8.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__com_dyuproject_protostuff_protostuff_runtime_1_0_8.xml" afterPath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__com_dyuproject_protostuff_protostuff_runtime_1_0_8.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_5_0.xml" afterPath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_5_0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_5_4.xml" afterPath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_5_4.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_5_4.xml" afterPath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_5_4.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterPath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterPath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__jstl_jstl_1_2.xml" afterPath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__jstl_jstl_1_2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__junit_junit_4_11.xml" afterPath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__junit_junit_4_11.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_35.xml" afterPath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_35.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterPath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__org_mybatis_mybatis_3_3_0.xml" afterPath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__org_mybatis_mybatis_3_3_0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_3.xml" afterPath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_3.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_12.xml" afterPath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_12.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__org_springframework_spring_aop_4_1_7_RELEASE.xml" afterPath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__org_springframework_spring_aop_4_1_7_RELEASE.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__org_springframework_spring_beans_4_1_7_RELEASE.xml" afterPath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__org_springframework_spring_beans_4_1_7_RELEASE.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__org_springframework_spring_context_4_1_7_RELEASE.xml" afterPath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__org_springframework_spring_context_4_1_7_RELEASE.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__org_springframework_spring_core_4_1_7_RELEASE.xml" afterPath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__org_springframework_spring_core_4_1_7_RELEASE.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__org_springframework_spring_expression_4_1_7_RELEASE.xml" afterPath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__org_springframework_spring_expression_4_1_7_RELEASE.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__org_springframework_spring_jdbc_4_1_7_RELEASE.xml" afterPath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__org_springframework_spring_jdbc_4_1_7_RELEASE.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__org_springframework_spring_test_4_1_7_RELEASE.xml" afterPath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__org_springframework_spring_test_4_1_7_RELEASE.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__org_springframework_spring_tx_4_1_7_RELEASE.xml" afterPath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__org_springframework_spring_tx_4_1_7_RELEASE.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__org_springframework_spring_web_4_1_7_RELEASE.xml" afterPath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__org_springframework_spring_web_4_1_7_RELEASE.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__org_springframework_spring_webmvc_4_1_7_RELEASE.xml" afterPath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__org_springframework_spring_webmvc_4_1_7_RELEASE.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__taglibs_standard_1_1_2.xml" afterPath="$PROJECT_DIR$/../seckill-master/.idea/libraries/Maven__taglibs_standard_1_1_2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seckill-master/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../seckill-master/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seckill-master/README.md" afterPath="$PROJECT_DIR$/../seckill-master/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seckill-master/pom.xml" afterPath="$PROJECT_DIR$/../seckill-master/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seckill-master/seckill.iml" afterPath="$PROJECT_DIR$/../seckill-master/seckill.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seckill-master/src/main/resources/jdbc.properties" afterPath="$PROJECT_DIR$/../seckill-master/src/main/resources/jdbc.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seckill-master/src/main/resources/mybatis-config.xml" afterPath="$PROJECT_DIR$/../seckill-master/src/main/resources/mybatis-config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seckill-master/src/main/webapp/WEB-INF/jsp/common/head.jsp" afterPath="$PROJECT_DIR$/../seckill-master/src/main/webapp/WEB-INF/jsp/common/head.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seckill-master/src/main/webapp/WEB-INF/jsp/common/tag.jsp" afterPath="$PROJECT_DIR$/../seckill-master/src/main/webapp/WEB-INF/jsp/common/tag.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seckill-master/src/main/webapp/WEB-INF/jsp/detail.jsp" afterPath="$PROJECT_DIR$/../seckill-master/src/main/webapp/WEB-INF/jsp/detail.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seckill-master/src/main/webapp/WEB-INF/jsp/list.jsp" afterPath="$PROJECT_DIR$/../seckill-master/src/main/webapp/WEB-INF/jsp/list.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seckill-master/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/../seckill-master/src/main/webapp/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seckill-master/src/main/webapp/index.jsp" afterPath="$PROJECT_DIR$/../seckill-master/src/main/webapp/index.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../seckill-master/src/test/java/cn/codingxiaxw/dao/SeckillDaoTest.java" afterPath="$PROJECT_DIR$/../seckill-master/src/test/java/cn/codingxiaxw/dao/SeckillDaoTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="result.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/result.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="17" column="40" lean-forward="false" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="40" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="8" column="58" lean-forward="false" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/cc/wenda/controller/SearchController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="39" column="60" lean-forward="false" selection-start-line="39" selection-start-column="60" selection-end-line="39" selection-end-column="60" />
+              <folding>
+                <element signature="class#2341:2803" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QuestionController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/cc/wenda/controller/QuestionController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="262">
+              <caret line="103" column="38" lean-forward="true" selection-start-line="103" selection-start-column="38" selection-end-line="103" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/cc/wenda/service/SearchService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="35" column="33" lean-forward="false" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>zg-link-gray-normal</find>
+      <find>ajax</find>
+      <find>unable-login</find>
+      <find>main.</find>
+      <find>main.base.Base</find>
+      <find>isEmail</find>
+      <find>sign-button</find>
+      <find>to-</find>
+      <find>字段</find>
+      <find>更多</find>
+      <find>pop</find>
+      <find>answer</find>
+      <find>feed-item folding feed-item-hook feed-item-2</find>
+      <find>feed-main</find>
+      <find>/pullfeeds</find>
+      <find>addFeed</find>
+      <find>&quot;profile&quot;</find>
+      <find>conversation</find>
+      <find>images/img</find>
+      <find>最新</find>
+      <find>System</find>
+      <find>getActions</find>
+      <find>hidden</find>
+      <find>myJs</find>
+      <find>没有</find>
+      <find>问题</find>
+      <find>userId</find>
+      <find>2</find>
+      <find>发表</find>
+      <find>重写</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>cc.wenda</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cc/wenda/service/SearchService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cc/wenda/aspect/LogAspect.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cc/wenda/interceptor/LoginRequredIntercepter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cc/wenda/interceptor/LoginRequiredInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/js.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cc/wenda/async/handler/SendEmailHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/mails/login_codeemial.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/login.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/home.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cc/wenda/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cc/wenda/util/RedisKeyUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cc/wenda/async/EventModel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cc/wenda/controller/SettingController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/followees.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/letter.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/header.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cc/wenda/dao/MessageDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cc/wenda/service/MessageService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cc/wenda/controller/MessageController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cc/wenda/controller/FeedController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/feeds.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cc/wenda/util/JedisAdapter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cc/wenda/service/QuestionService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cc/wenda/model/Question.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cc/wenda/async/EventType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cc/wenda/controller/LikeController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cc/wenda/util/ActionUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cc/wenda/async/handler/LikeHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cc/wenda/async/handler/FollowHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cc/wenda/async/handler/AddQuestionHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cc/wenda/controller/QuestionController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cc/wenda/async/handler/FeedHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cc/wenda/controller/CommentController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/QuestionDAO.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cc/wenda/model/Action.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cc/wenda/service/ActionService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cc/wenda/service/CommentService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cc/wenda/dao/CommentDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/ActionDAO.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cc/wenda/dao/ActionDAO.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cc/wenda/InitDatabaseTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cc/wenda/util/WendaUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/static/scripts/main/base/myJs.js" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/profile.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cc/wenda/controller/HomeController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cc/wenda/dao/QuestionDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/index.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/result.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cc/wenda/controller/SearchController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/java_openSourse/apache-maven-3.5.0" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="wenda" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="wenda" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="522" />
+    <option name="width" value="1403" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>Maven</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>MavenModelInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="wenda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wenda" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wenda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wenda" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wenda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wenda" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wenda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wenda" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wenda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wenda" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wenda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wenda" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="cc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wenda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wenda" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="cc" type="462c0819:PsiDirectoryNode" />
+              <item name="wenda" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="last_opened_file_path" value="E:/java学习文件夹/牛客网/牛客网/牛客网项目（高级）/其他/IKAnalyzer/IKAnalyzer/pom.xml" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\ijJavaWorkspace\wenda\src\main\resources\mapper" />
+      <recent name="E:\ijJavaWorkspace\wenda\src\main\resources\com.cc.wenda.dao" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cc.wenda.dao" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ijJavaWorkspace\wenda\src\main\resources\mapper" />
+      <recent name="E:\ijJavaWorkspace\wenda\src\main\resources\static\images\img" />
+      <recent name="E:\ijJavaWorkspace\wenda\src\main\resources" />
+      <recent name="E:\ijJavaWorkspace\wenda\src\main\resources\templates" />
+      <recent name="E:\ijJavaWorkspace\wenda\src\main\java\com\cc\wenda\controller" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.WendaApplication">
+    <configuration name="InitDatabaseTests.getActions1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.cc.wenda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="wenda" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.cc.wenda" />
+      <option name="MAIN_CLASS_NAME" value="com.cc.wenda.InitDatabaseTests" />
+      <option name="METHOD_NAME" value="getActions1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="InitDatabaseTests.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.cc.wenda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="wenda" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.cc.wenda" />
+      <option name="MAIN_CLASS_NAME" value="com.cc.wenda.InitDatabaseTests" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="InitDatabaseTests.testActionService" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.cc.wenda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="wenda" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.cc.wenda" />
+      <option name="MAIN_CLASS_NAME" value="com.cc.wenda.InitDatabaseTests" />
+      <option name="METHOD_NAME" value="testActionService" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="InitDatabaseTests.testQusetionService" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.cc.wenda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="wenda" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.cc.wenda" />
+      <option name="MAIN_CLASS_NAME" value="com.cc.wenda.InitDatabaseTests" />
+      <option name="METHOD_NAME" value="testQusetionService" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="InitDatabaseTests.testScore" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.cc.wenda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="wenda" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.cc.wenda" />
+      <option name="MAIN_CLASS_NAME" value="com.cc.wenda.InitDatabaseTests" />
+      <option name="METHOD_NAME" value="testScore" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="WendaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cc.wenda.WendaApplication" />
+      <module name="wenda" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Spring Boot.WendaApplication" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.InitDatabaseTests.test" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.InitDatabaseTests.testActionService" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.InitDatabaseTests.testQusetionService" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.InitDatabaseTests.testScore" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.InitDatabaseTests.getActions1" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.InitDatabaseTests.getActions1" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.InitDatabaseTests.testActionService" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.InitDatabaseTests.testScore" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.InitDatabaseTests.testQusetionService" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.InitDatabaseTests.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="581085f5-6a76-420a-864b-3645748867d5" name="Default" comment="" />
+      <created>1525324883160</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525324883160</updated>
+      <workItem from="1525324887078" duration="87894000" />
+      <workItem from="1525673629262" duration="9434000" />
+      <workItem from="1525701882072" duration="8101000" />
+      <workItem from="1525800622099" duration="19143000" />
+      <workItem from="1525931190115" duration="20713000" />
+      <workItem from="1526132829727" duration="791000" />
+      <workItem from="1526135248594" duration="11219000" />
+      <workItem from="1526211451222" duration="49927000" />
+      <workItem from="1526554180941" duration="10343000" />
+      <workItem from="1526646705171" duration="3155000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="InitDatabaseTests_getActions1 - 2018.05.16 at 01h 24m 47s.xml">
+      <configuration name="InitDatabaseTests.getActions1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InitDatabaseTests_getActions1 - 2018.05.16 at 01h 26m 02s.xml">
+      <configuration name="InitDatabaseTests.getActions1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InitDatabaseTests_getActions1 - 2018.05.16 at 01h 26m 49s.xml">
+      <configuration name="InitDatabaseTests.getActions1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InitDatabaseTests_getActions1 - 2018.05.16 at 01h 29m 36s.xml">
+      <configuration name="InitDatabaseTests.getActions1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InitDatabaseTests_getActions1 - 2018.05.16 at 01h 32m 13s.xml">
+      <configuration name="InitDatabaseTests.getActions1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InitDatabaseTests_getActions1 - 2018.05.16 at 02h 21m 23s.xml">
+      <configuration name="InitDatabaseTests.getActions1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InitDatabaseTests_getActions1 - 2018.05.16 at 02h 22m 07s.xml">
+      <configuration name="InitDatabaseTests.getActions1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InitDatabaseTests_getActions1 - 2018.05.16 at 02h 22m 55s.xml">
+      <configuration name="InitDatabaseTests.getActions1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InitDatabaseTests_getActions1 - 2018.05.16 at 02h 26m 12s.xml">
+      <configuration name="InitDatabaseTests.getActions1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="InitDatabaseTests_getActions1 - 2018.05.16 at 02h 26m 33s.xml">
+      <configuration name="InitDatabaseTests.getActions1" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="220720000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="522" y="0" width="1403" height="1040" extended-state="0" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.04380104" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27468786" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29486224" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2167991" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32309443" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.04380104" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18728717" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32309443" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21793416" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28829432" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="45" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cc/wenda/dao/FeedDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="15" column="8" lean-forward="false" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cc/wenda/service/FeedService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="18" column="19" lean-forward="false" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cc/wenda/async/EventConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cc/wenda/controller/FeedController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="47" column="91" lean-forward="false" selection-start-line="47" selection-start-column="84" selection-end-line="47" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cc/wenda/service/LikeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_72/src.zip!/java/util/Date.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="887" column="23" lean-forward="false" selection-start-line="887" selection-start-column="23" selection-end-line="887" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cc/wenda/util/JedisAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="376" column="30" lean-forward="true" selection-start-line="376" selection-start-column="30" selection-end-line="376" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cc/wenda/service/FollowService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="92" column="47" lean-forward="true" selection-start-line="92" selection-start-column="47" selection-end-line="92" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cc/wenda/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="40" column="50" lean-forward="false" selection-start-line="40" selection-start-column="50" selection-end-line="40" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cc/wenda/dao/MessageDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="18" column="60" lean-forward="true" selection-start-line="18" selection-start-column="60" selection-end-line="18" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cc/wenda/model/Comment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cc/wenda/model/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#291#292#0" expanded="false" />
+            <element signature="e#319#320#0" expanded="false" />
+            <element signature="e#361#362#0" expanded="false" />
+            <element signature="e#395#396#0" expanded="false" />
+            <element signature="e#827#828#0" expanded="false" />
+            <element signature="e#861#862#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cc/wenda/async/handler/FollowHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="50" column="16" lean-forward="true" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cc/wenda/async/handler/AddQuestionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="22" column="89" lean-forward="false" selection-start-line="22" selection-start-column="89" selection-end-line="22" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cc/wenda/async/EventHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cc/wenda/util/ActionUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cc/wenda/controller/CommentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="79" column="0" lean-forward="true" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cc/wenda/async/handler/FeedHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="93" column="73" lean-forward="true" selection-start-line="93" selection-start-column="73" selection-end-line="93" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cc/wenda/async/handler/LikeHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="43" column="66" lean-forward="true" selection-start-line="43" selection-start-column="66" selection-end-line="43" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/ActionDao.xml.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cc/wenda/model/Action.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="36" column="8" lean-forward="false" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/FeedDAO.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cc/wenda/controller/FollowController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="145" column="16" lean-forward="true" selection-start-line="145" selection-start-column="16" selection-end-line="145" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cc/wenda/model/EntityType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cc/wenda/dao/CommentDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="34" column="47" lean-forward="true" selection-start-line="34" selection-start-column="47" selection-end-line="34" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cc/wenda/service/CommentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="14" column="11" lean-forward="false" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cc/wenda/service/ActionService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="33" column="63" lean-forward="false" selection-start-line="33" selection-start-column="63" selection-end-line="33" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/QuestionDAO.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="32" lean-forward="false" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cc/wenda/dao/ActionDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="26" column="35" lean-forward="false" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cc/wenda/InitDatabaseTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="154" column="86" lean-forward="false" selection-start-line="154" selection-start-column="86" selection-end-line="154" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/js.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="57" lean-forward="true" selection-start-line="3" selection-start-column="57" selection-end-line="3" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/ActionDAO.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="17" lean-forward="true" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cc/wenda/model/ViewObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cc/wenda/controller/IndexController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1081">
+          <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cc/wenda/controller/LikeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/followees.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="16" column="49" lean-forward="true" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cc/wenda/util/WendaUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="17" column="47" lean-forward="true" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/feeds.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="191" column="51" lean-forward="true" selection-start-line="191" selection-start-column="51" selection-end-line="191" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/scripts/main/base/myJs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="37" column="64" lean-forward="false" selection-start-line="37" selection-start-column="58" selection-end-line="37" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/profile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="68" lean-forward="true" selection-start-line="16" selection-start-column="68" selection-end-line="16" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cc/wenda/async/EventType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cc/wenda/controller/SettingController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cc/wenda/service/QuestionService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="29" column="30" lean-forward="false" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+          <folding>
+            <element signature="e#649#650#0" expanded="false" />
+            <element signature="e#695#696#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cc/wenda/dao/QuestionDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="25" column="67" lean-forward="false" selection-start-line="25" selection-start-column="67" selection-end-line="25" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cc/wenda/controller/HomeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="64" column="5" lean-forward="true" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cc/wenda/service/SearchService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="35" column="33" lean-forward="false" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="58" lean-forward="false" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/result.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="40" lean-forward="false" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="40" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cc/wenda/controller/QuestionController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="103" column="38" lean-forward="true" selection-start-line="103" selection-start-column="38" selection-end-line="103" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cc/wenda/controller/SearchController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="39" column="60" lean-forward="false" selection-start-line="39" selection-start-column="60" selection-end-line="39" selection-end-column="60" />
+          <folding>
+            <element signature="class#2341:2803" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>wenda</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
